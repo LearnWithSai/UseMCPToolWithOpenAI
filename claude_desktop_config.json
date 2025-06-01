@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "orders_server": {
+      "command": "C:\\Users\\sai\\Documents\\lws\\tools\\mcp\\orders\\.venv\\Scripts\\python.exe",
+      "args": [
+        "C:\\Users\\sai\\Documents\\lws\\tools\\mcp\\orders\\main.py"
+      ]
+    }
+  }
+}
