@@ -1,0 +1,4 @@
+openai
+pyodbc
+ipykernel
+pandas
